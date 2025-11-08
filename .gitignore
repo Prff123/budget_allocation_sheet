@@ -1,0 +1,12 @@
+# Virtual environment
+.venv/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+data/
+
+# System files
+.DS_Store
+Thumbs.db
